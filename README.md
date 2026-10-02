@@ -45,6 +45,10 @@ daniel-narvaez/
 │   │   └── main.jsx
 │   ├── package.json
 │   └── vite.config.js
+├── docs/                         # Artefactos de Análisis y Diseño de Software
+│   ├── requirements.md           # Especificación de Requerimientos de Software (SRS)
+│   ├── data-dictionary.md        # Diccionario de Datos del Sistema y Modelos
+│   └── README.md                 # Índice y alineación arquitectónica
 └── README.md
 ```
 
