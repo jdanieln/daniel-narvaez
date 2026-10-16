@@ -110,11 +110,11 @@ export default function Hero({ profile }) {
               <div className="hero-avatar-glow"></div>
               <div className="hero-avatar-card">
                 <img 
-                  src={profile?.avatarUrl || "https://avatars.githubusercontent.com/u/53232152?v=4"} 
+                  src={profile?.avatarUrl || "/profile.jpg"} 
                   alt={fullName}
                   className="hero-avatar-img"
                   onError={(e) => {
-                    e.target.src = "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=600&q=80";
+                    e.target.src = "/profile.jpg";
                   }}
                 />
               </div>

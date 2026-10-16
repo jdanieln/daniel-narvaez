@@ -12,7 +12,7 @@ const FALLBACK_DATA = {
       location: "Rivas, Nicaragua",
       githubUrl: "https://github.com/jdanieln",
       linkedinUrl: "https://linkedin.com/in/jdanielnf",
-      avatarUrl: "https://avatars.githubusercontent.com/u/53232152?v=4"
+      avatarUrl: "/profile.jpg"
     },
     experiences: [
       {
@@ -245,7 +245,7 @@ const FALLBACK_DATA = {
       location: "Rivas, Nicaragua",
       githubUrl: "https://github.com/jdanieln",
       linkedinUrl: "https://linkedin.com/in/jdanielnf",
-      avatarUrl: "https://avatars.githubusercontent.com/u/53232152?v=4"
+      avatarUrl: "/profile.jpg"
     },
     experiences: [
       {

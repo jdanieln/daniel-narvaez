@@ -38,7 +38,7 @@ def seed_database(db: Database, overwrite: bool = False):
         "Rivas, Nicaragua",
         "https://github.com/jdanieln",
         "https://linkedin.com/in/jdanielnf",
-        "https://avatars.githubusercontent.com/u/53232152?v=4",
+        "/profile.jpg",
         "#"
     ))
 

@@ -20,11 +20,11 @@ export default function Navbar() {
       <div className="container navbar-container">
         <a href="#hero" className="nav-brand" id="nav-brand-logo">
           <img 
-            src="https://avatars.githubusercontent.com/u/53232152?v=4" 
+            src="/profile.jpg" 
             alt="Dr. Daniel Narváez" 
             className="nav-brand-avatar"
             onError={(e) => {
-              e.target.style.display = 'none';
+              e.target.src = "https://avatars.githubusercontent.com/u/53232152?v=4";
             }}
           />
           <div className="nav-brand-text">
